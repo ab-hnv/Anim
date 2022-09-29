@@ -4,7 +4,7 @@
     font-family: 'Rajdhani', sans-serif;
     font-weight: 400;
     font-size: 60px;
-    animation: slidehi 2s 1;
+    animation: slidehi 5s 1;
 
 }
 
@@ -73,14 +73,14 @@ body {
 }
 
 @keyframes slidei {
-    0% {margin-left: 100%;
+    0% {
         opacity: 0;
     }
 
-    /* 40% {
+    40% {
          margin-left: 100%; 
         opacity: 0;
-    } */
+    } 
 
     100% {
         margin-left: 0%;
