@@ -135,3 +135,22 @@ body {
         opacity: 1;
     }
 }
+@media screen and (max-width: 420px) {
+    body {
+       background-color: rgb(255, 255, 255);
+       padding:1vh;
+    }
+    #contact{
+        font-family:'Comfortaa', cursive;
+        font-size: 8vw;
+        display:flex;
+        justify-content: right;
+    }
+      #about{
+        font-family:'Comfortaa', cursive;
+        font-size: 8vw;
+        display:flex;
+        justify-content: right;
+    }
+ }
+
