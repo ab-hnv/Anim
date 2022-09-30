@@ -142,7 +142,7 @@ body {
     }
     #contact{
         font-family:'Comfortaa', cursive;
-        font-size: 8vw;
+        font-size: 20vw;
         display:flex;
         justify-content: right;
     }
@@ -154,3 +154,9 @@ body {
     }
  }
 
+ #contact{
+    font-family:'Comfortaa', cursive;
+    font-size: 8vw;
+    display:flex;
+    justify-content: right;
+}
